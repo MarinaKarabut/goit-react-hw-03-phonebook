@@ -1,0 +1,16 @@
+.box {
+  background: #ffffff;
+  max-width: 360px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 45px;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+.tittle {
+  text-align: center;
+}
+
+.notification {
+  text-align: center;
+  color: red;
+}
